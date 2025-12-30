@@ -1,2 +1,14 @@
-# CepFaresi
-Telefonu bilgisayar içi Touchpad,Medya tuşu,Klavye ve Gamepad'e çeviren uygulama.
+# 📱 Cep Faresi (Pocket Mouse)
+
+Cep Faresi, akıllı telefonunuzu bilgisayarınız için çok fonksiyonlu bir kontrol cihazına dönüştüren açık kaynaklı bir Python uygulamasıdır. Fare, klavye, medya kontrolcüsü ve oyun kumandası özelliklerini tek bir modern arayüzde birleştirir.
+
+## 🌟 Özellikler
+
+*   **Fare Kontrolü**: Telefon ekranınızı touchpad olarak kullanın. Sol/sağ tık ve kaydırma (scroll) özellikleri mevcuttur.
+*   **Klavye Modu**: Metin girişi ve özel tuşlar (CTRL, ALT, TAB, vb.) ile tam klavye desteği.
+*   **Medya Kontrolü**: Müzik ve video oynatıcıları uzaktan kontrol edin (Oynat/Durdur, İleri/Geri, Ses Kontrolü). Winamp gibi klasik oynatıcılarla bile uyumludur.
+*   **Sunum Modu**: PowerPoint veya diğer sunum araçları için özel "İleri/Geri" slayt kontrol tuşları.
+*   **Gamepad Modu**: Oyunlar için sanal joystick ve d-pad kontrolleri (Analog joystick desteği ile).
+*   **Kolay Bağlantı**: Ekranda beliren QR kodu taratarak saniyeler içinde bağlanın.
+*   **Otomatik Hotspot Algılama**: Telefonunuzun hotspot'una bağlıyken veya aynı Wi-Fi ağındayken otomatik IP algılama.
+**Telefon ve bilgisayarın aynı ağa bağlı olduğundan emin olun!** (Veya bilgisayarınızı telefonunuzun Hotspot'una bağlayın).
