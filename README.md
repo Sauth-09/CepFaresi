@@ -11,4 +11,11 @@ Cep Faresi, akıllı telefonunuzu bilgisayarınız için çok fonksiyonlu bir ko
 *   **Gamepad Modu**: Oyunlar için sanal joystick ve d-pad kontrolleri (Analog joystick desteği ile).
 *   **Kolay Bağlantı**: Ekranda beliren QR kodu taratarak saniyeler içinde bağlanın.
 *   **Otomatik Hotspot Algılama**: Telefonunuzun hotspot'una bağlıyken veya aynı Wi-Fi ağındayken otomatik IP algılama.
-**Telefon ve bilgisayarın aynı ağa bağlı olduğundan emin olun!** (Veya bilgisayarınızı telefonunuzun Hotspot'una bağlayın).
+* **Telefon ve bilgisayarın aynı ağa bağlı olduğundan emin olun!** (Veya bilgisayarınızı telefonunuzun Hotspot'una bağlayın).
+* ## � İndir
+
+En son sürümü (`.exe` olarak) doğrudan indirmek için aşağıdaki butona tıklayın:
+
+[![İndir](https://img.shields.io/badge/İndir-Cep_Faresi_v1.0-blue?style=for-the-badge&logo=windows)](https://github.com/Sauth-09/CepFaresi/releases/latest)
+
+---
