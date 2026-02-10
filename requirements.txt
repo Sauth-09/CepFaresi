@@ -1,0 +1,6 @@
+flask
+flask-socketio
+qrcode
+pyautogui
+pyopenssl
+eventlet
